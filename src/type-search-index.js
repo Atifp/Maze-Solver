@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"maze.routing","l":"NoRouteFoundException"},{"p":"maze.routing","l":"RouteFinder"}]
